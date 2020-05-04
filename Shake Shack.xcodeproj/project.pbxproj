@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FD2C4978245D3A7500693B7B /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD2C4977245D3A7500693B7B /* LoginView.swift */; };
 		FD6DE63E245745AF00373F22 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD6DE63D245745AF00373F22 /* AppDelegate.swift */; };
 		FD6DE640245745AF00373F22 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD6DE63F245745AF00373F22 /* SceneDelegate.swift */; };
 		FD6DE642245745AF00373F22 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD6DE641245745AF00373F22 /* ContentView.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FD2C4977245D3A7500693B7B /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		FD6DE63A245745AF00373F22 /* Shake Shack.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Shake Shack.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD6DE63D245745AF00373F22 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FD6DE63F245745AF00373F22 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				FD6DE641245745AF00373F22 /* ContentView.swift */,
 				FDA8746E24594515001574A1 /* WelcomBottomButtonView.swift */,
 				FD6DE651245748E700373F22 /* BackgroundImageView.swift */,
+				FD2C4977245D3A7500693B7B /* LoginView.swift */,
 				FD6DE643245745B500373F22 /* Assets.xcassets */,
 				FD6DE648245745B500373F22 /* LaunchScreen.storyboard */,
 				FD6DE64B245745B500373F22 /* Info.plist */,
@@ -152,6 +155,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD2C4978245D3A7500693B7B /* LoginView.swift in Sources */,
 				FDA8746F24594515001574A1 /* WelcomBottomButtonView.swift in Sources */,
 				FD6DE63E245745AF00373F22 /* AppDelegate.swift in Sources */,
 				FD6DE640245745AF00373F22 /* SceneDelegate.swift in Sources */,

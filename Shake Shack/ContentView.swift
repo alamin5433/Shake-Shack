@@ -31,7 +31,7 @@ struct ContentView: View {
                     
                     
                     Spacer()
-                    NavigationLink(destination: Text("Coming Soon")) {
+                    NavigationLink(destination: LoginView()) {
                         SignInOrCreateButtonView()
                     }
                     .offset( y: isSignUpViewOnScreen ? 0 : 400)
